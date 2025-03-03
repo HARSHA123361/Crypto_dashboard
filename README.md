@@ -2,7 +2,7 @@
 
 ## Web Application Setup
 
-2. **Installation & Running**
+1. **Installation & Running**
    ```bash
    
    cd web-app
